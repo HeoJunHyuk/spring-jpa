@@ -1,1 +1,2 @@
-# Spring-JPA practice JPA_Shop
+# JPA_Shop
+  Spring-JPA practice Web
